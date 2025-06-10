@@ -1,0 +1,81 @@
+ProductID,Product Name,Category,Price,Rating,Number of people rated the product,Dates
+1,Apple Watch,Accessory,52234,4.2,444,01-01-2000
+2,Mi Charger,Charger,19838,3.2,248,02-01-2000
+3,iPhone 13,Mobile,88376,4.4,923,03-01-2000
+4,Sony Headphones,Headphones,81596,3.8,635,04-01-2000
+5,OnePlus 9,Mobile,82710,3,56,05-01-2000
+6,Realme Cable,Cable,940,4.7,104,06-01-2000
+7,OnePlus 9,Mobile,51222,4.8,407,07-01-2000
+8,MacBook Air,Laptop,38044,3.6,673,08-01-2000
+9,MacBook Air,Laptop,24821,3.1,690,09-01-2000
+10,Apple Watch,Accessory,13946,4,475,10-01-2000
+11,Logitech Mouse,Mouse,33753,3.1,640,11-01-2000
+12,Apple Watch,Accessory,19217,3,502,12-01-2000
+13,Dell XPS 13,Laptop,69765,3.3,51,13-01-2000
+14,OnePlus 9,Mobile,38140,4.3,107,14-01-2000
+15,HP Pavilion,Laptop,36465,3.8,186,15-01-2000
+16,Dell XPS 13,Laptop,30609,4.1,193,16-01-2000
+17,Apple Watch,Accessory,40854,3.7,792,17-01-2000
+18,Apple Watch,Accessory,60481,4.4,63,18-01-2000
+19,Samsung Galaxy Tab,Tablet,19429,3.1,808,19-01-2000
+20,HP Pavilion,Laptop,89975,3.1,535,20-01-2000
+21,HP Pavilion,Laptop,26701,4.6,820,21-01-2000
+22,Logitech Mouse,Mouse,49830,3.6,442,22-01-2000
+23,Realme Cable,Cable,579,3.7,152,23-01-2000
+24,Realme Cable,Cable,997,3,991,24-01-2000
+25,Logitech Mouse,Mouse,15552,3.1,457,25-01-2000
+26,Realme Cable,Cable,1325,4.8,173,26-01-2000
+27,Logitech Mouse,Mouse,74744,3.3,437,27-01-2000
+28,Mi Charger,Charger,43832,3.4,779,28-01-2000
+29,Logitech Mouse,Mouse,13528,3.2,362,29-01-2000
+30,HP Pavilion,Laptop,14413,4.9,972,30-01-2000
+31,Samsung Galaxy Tab,Tablet,27492,4.7,526,31-01-2000
+32,Mi Charger,Charger,28167,3.4,612,01-02-2000
+33,Dell XPS 13,Laptop,69313,4,645,02-02-2000
+34,Logitech Mouse,Mouse,51650,3.5,702,03-02-2000
+35,Samsung Galaxy Tab,Tablet,43239,4.7,705,04-02-2000
+36,Realme Cable,Cable,1036,4.8,492,05-02-2000
+37,Realme Cable,Cable,515,3.8,369,06-02-2000
+38,Realme Cable,Cable,1198,4.6,742,07-02-2000
+39,OnePlus 9,Mobile,59785,5,234,08-02-2000
+40,Samsung Galaxy Tab,Tablet,15797,4.3,318,09-02-2000
+41,Bose Speaker,Speaker,86244,4.1,704,10-02-2000
+42,OnePlus 9,Mobile,12909,3.2,850,11-02-2000
+43,Sony Headphones,Headphones,70751,3.5,766,12-02-2000
+44,Sony Headphones,Headphones,60052,4.5,298,13-02-2000
+45,Realme Cable,Cable,967,3.6,589,14-02-2000
+46,HP Pavilion,Laptop,46391,4.8,637,15-02-2000
+47,Sony Headphones,Headphones,10308,4.2,516,16-02-2000
+48,Bose Speaker,Speaker,87490,4.7,352,17-02-2000
+49,MacBook Air,Laptop,23885,3.8,377,18-02-2000
+50,OnePlus 9,Mobile,56317,4.8,243,19-02-2000
+51,iPhone 13,Mobile,24010,3.2,302,20-02-2000
+52,Samsung Galaxy Tab,Tablet,84424,4.9,458,21-02-2000
+53,Mi Charger,Charger,84821,3.7,165,22-02-2000
+54,MacBook Air,Laptop,59956,4.3,187,23-02-2000
+55,MacBook Air,Laptop,49173,5,689,24-02-2000
+56,Realme Cable,Cable,1269,4.2,254,25-02-2000
+57,MacBook Air,Laptop,71547,4.2,659,26-02-2000
+58,Realme Cable,Cable,1264,3.2,201,27-02-2000
+59,Sony Headphones,Headphones,55017,3,911,28-02-2000
+60,Realme Cable,Cable,711,3.5,559,29-02-2000
+61,Sony Headphones,Headphones,27046,3.4,634,01-03-2000
+62,Dell XPS 13,Laptop,27332,4.5,549,02-03-2000
+63,Dell XPS 13,Laptop,54982,4.7,268,03-03-2000
+64,Realme Cable,Cable,581,3.9,90,04-03-2000
+65,MacBook Air,Laptop,76643,4.8,889,05-03-2000
+66,HP Pavilion,Laptop,29489,4.5,455,06-03-2000
+67,HP Pavilion,Laptop,69538,4.2,706,07-03-2000
+68,Dell XPS 13,Laptop,29786,4.6,98,08-03-2000
+69,Apple Watch,Accessory,26947,3.1,592,09-03-2000
+70,Realme Cable,Cable,678,4.2,771,10-03-2000
+71,Bose Speaker,Speaker,33816,4.7,763,11-03-2000
+72,Samsung Galaxy Tab,Tablet,60157,3.7,534,12-03-2000
+73,Mi Charger,Charger,61401,4,834,13-03-2000
+74,Apple Watch,Accessory,51791,4,916,14-03-2000
+75,Samsung Galaxy Tab,Tablet,46207,4.6,269,15-03-2000
+76,Bose Speaker,Speaker,12362,4,67,16-03-2000
+77,Realme Cable,Cable,780,3.2,953,17-03-2000
+78,OnePlus 9,Mobile,32241,4.4,818,18-03-2000
+79,Sony Headphones,Headphones,27272,3.6,352,19-03-2000
+80,Realme Cable,Cable,1131,4.8,643,20-03-2000
